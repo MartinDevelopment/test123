@@ -47,7 +47,7 @@
    number due to winograd tiles
  */
 #ifndef BOARD_SIZE
-#define BOARD_SIZE 19
+#define BOARD_SIZE 9
 #endif
 
 static_assert(BOARD_SIZE % 2 == 1,
